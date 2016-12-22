@@ -1,0 +1,11 @@
+C:\Users\bg901135\aula\primeri.csharp.terminal\Module2\Module2\bin\Debug\Module2.exe
+C:\Users\bg901135\aula\primeri.csharp.terminal\Module2\Module2\bin\Debug\Module2.pdb
+C:\Users\bg901135\aula\primeri.csharp.terminal\Module2\Module2\bin\Debug\mscorlib.dll
+C:\Users\bg901135\aula\primeri.csharp.terminal\Module2\Module2\bin\Debug\normidna.nlp
+C:\Users\bg901135\aula\primeri.csharp.terminal\Module2\Module2\bin\Debug\normnfc.nlp
+C:\Users\bg901135\aula\primeri.csharp.terminal\Module2\Module2\bin\Debug\normnfd.nlp
+C:\Users\bg901135\aula\primeri.csharp.terminal\Module2\Module2\bin\Debug\normnfkc.nlp
+C:\Users\bg901135\aula\primeri.csharp.terminal\Module2\Module2\bin\Debug\normnfkd.nlp
+C:\Users\bg901135\aula\primeri.csharp.terminal\Module2\Module2\obj\x86\Debug\Module2.csprojResolveAssemblyReference.cache
+C:\Users\bg901135\aula\primeri.csharp.terminal\Module2\Module2\obj\x86\Debug\Module2.exe
+C:\Users\bg901135\aula\primeri.csharp.terminal\Module2\Module2\obj\x86\Debug\Module2.pdb
