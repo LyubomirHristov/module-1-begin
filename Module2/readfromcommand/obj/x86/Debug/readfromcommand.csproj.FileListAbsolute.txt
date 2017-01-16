@@ -1,0 +1,10 @@
+C:\Users\bg901135\aula\primeri.csharp.terminal\Module2\readfromcommand\bin\Debug\readfromcommand.exe
+C:\Users\bg901135\aula\primeri.csharp.terminal\Module2\readfromcommand\bin\Debug\readfromcommand.pdb
+C:\Users\bg901135\aula\primeri.csharp.terminal\Module2\readfromcommand\bin\Debug\mscorlib.dll
+C:\Users\bg901135\aula\primeri.csharp.terminal\Module2\readfromcommand\bin\Debug\normidna.nlp
+C:\Users\bg901135\aula\primeri.csharp.terminal\Module2\readfromcommand\bin\Debug\normnfc.nlp
+C:\Users\bg901135\aula\primeri.csharp.terminal\Module2\readfromcommand\bin\Debug\normnfd.nlp
+C:\Users\bg901135\aula\primeri.csharp.terminal\Module2\readfromcommand\bin\Debug\normnfkc.nlp
+C:\Users\bg901135\aula\primeri.csharp.terminal\Module2\readfromcommand\bin\Debug\normnfkd.nlp
+C:\Users\bg901135\aula\primeri.csharp.terminal\Module2\readfromcommand\obj\x86\Debug\readfromcommand.exe
+C:\Users\bg901135\aula\primeri.csharp.terminal\Module2\readfromcommand\obj\x86\Debug\readfromcommand.pdb
