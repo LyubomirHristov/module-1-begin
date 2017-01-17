@@ -14,6 +14,23 @@ namespace readfromcommand
 			// the result
 			Console.WriteLine(" the sum of a and b is: " + ( a + b).ToString() + "\n\n");//слагаме .tostring-> за да ни превърне резултата в текст
 
+
+			string test = "1";
+			 test += ", 2";
+			 test += ",777";
+			test += ", 4";
+			test += ", 5";
+			Console.WriteLine("addition with += : " + test + "\n"); // adding symbols to existing one
+			test = test.Replace(",", "-");
+			Console.WriteLine("replace , with - = : " + test + "\n");// replacing symbols with already typed one
+			Console.WriteLine("3th sign" + test.Split('-')[2]);
+
+
+
+
+
 		}
+
+
 	}
 }
