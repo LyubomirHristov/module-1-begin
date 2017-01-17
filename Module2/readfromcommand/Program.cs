@@ -23,10 +23,13 @@ namespace readfromcommand
 			Console.WriteLine("addition with += : " + test + "\n"); // adding symbols to existing one
 			test = test.Replace(",", "-");
 			Console.WriteLine("replace , with - = : " + test + "\n");// replacing symbols with already typed one
-			Console.WriteLine("3th sign" + test.Split('-')[2]);
+			Console.WriteLine("3th sign" + test.Split('-')[2]); //listing particular symbol from string(our case "test")
 
 
-
+			string one = "hello";
+			string two = "world";
+			object first = one +" " + two;
+			Console.WriteLine("my message is:\n" + first);
 
 
 		}
