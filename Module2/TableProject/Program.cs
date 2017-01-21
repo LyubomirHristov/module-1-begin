@@ -5,21 +5,27 @@ namespace TableProject
 	class MainClass
 	{
 		public static void Main(string[] args)
+
+
+
+
 		{
-			//дефиниране на масив( 1ви метод- по- сложен за изписване и по- лесен за проверка)
-			string[] row = new string[3];
-			row[0] = "row 1";
-			row[1] = "row 2";
-			row[2] = "row 3";
-			Console.WriteLine(" array row: " + row[0] + ", " + row[1] + ", " + row[2] + "\n");
-			//дефиниране на масив, 2ри метод- по- лесен за изписване, по- сложен за проверка( вадим дължината на масива накрая) 
-			string[] parse = "1,2,3,4,5,6,7,8,9".Split(',');
-			Console.WriteLine(" the amount of the array is: " + "1,2,3,4,5,6,7,8,9\n\n is:" + parse.Length);
+
+			//дефиниране на таблица
+			string[,] table = new string[2, 3];
+			//въвеждане на 1ви ред
+			table[0, 0] = "Lyubo"; table[0, 1] = "Hristov"; table[0, 2] = "24";
+
+			//въвеждане на 2ри ред
+			table[1, 0] = "Hristo"; table[1, 1] = "Lyubomirov"; table[1, 2] = "25";
+
+			//печат
+			Console.Write("which row do you want to see: ");
+			int _index = Convert.ToInt32(Console.ReadLine ()) -1;//-->слагаме -1, защото компилатора ни брои 0 като цяло число и започваме от нея
+
+			Console.WriteLine((table[_index, 0])[0] + "." + table[_index, 1] + ", " +"age:"+ table[_index,2]);
 
 
-			//събиране на масиви(без да използваме цикли):
-			string list1 = string.Join(";", parse);
-			Console.WriteLine("new array is: " + list1 + "\n\n");
 
 
 		}
